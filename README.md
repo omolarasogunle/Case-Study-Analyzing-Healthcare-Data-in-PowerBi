@@ -44,6 +44,10 @@ To evaluate and compare hospital efficiency by:
 
 ##  Dashboard Preview
 
-![Dashboard Screenshot](./images/dashboard-preview.png)
+![ab](https://github.com/user-attachments/assets/9a1556fa-af88-4cb1-815c-6bdc8f4921fa)
 
+![Screenshot 2025-04-08 191130](https://github.com/user-attachments/assets/a080221d-3ec1-4f55-b583-0af1c8909b22)
 
+![ab2](https://github.com/user-attachments/assets/22c4e50f-6638-408c-b121-4ec97fed82d6)
+
+![ab3](https://github.com/user-attachments/assets/f262d257-eb7b-442a-ba95-1d9d4691d0e3)
